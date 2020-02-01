@@ -1,0 +1,11 @@
+E:\webPra\ComputerManage\ComputerManage\bin\Release\ComputerManage.exe
+E:\webPra\ComputerManage\ComputerManage\bin\Release\ComputerManage.pdb
+E:\webPra\ComputerManage\ComputerManage\bin\Release\Microsoft.Office.Interop.Word.dll
+E:\webPra\ComputerManage\ComputerManage\bin\Release\office.dll
+E:\webPra\ComputerManage\ComputerManage\bin\Release\Microsoft.Vbe.Interop.dll
+E:\webPra\ComputerManage\ComputerManage\obj\x86\Release\ComputerManage.Form1.resources
+E:\webPra\ComputerManage\ComputerManage\obj\x86\Release\ComputerManage.Form2.resources
+E:\webPra\ComputerManage\ComputerManage\obj\x86\Release\ComputerManage.Properties.Resources.resources
+E:\webPra\ComputerManage\ComputerManage\obj\x86\Release\ComputerManage.csproj.GenerateResource.Cache
+E:\webPra\ComputerManage\ComputerManage\obj\x86\Release\ComputerManage.exe
+E:\webPra\ComputerManage\ComputerManage\obj\x86\Release\ComputerManage.pdb
